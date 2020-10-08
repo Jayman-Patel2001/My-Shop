@@ -1,0 +1,1 @@
+This little project is a next step toward making a big e-commerce website like amazon. I hope you will like this project and if you have any suggestions or want to add some new features then you are most welcome
